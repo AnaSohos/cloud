@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileDisk/FileDisk.iml" filepath="$PROJECT_DIR$/FileDisk/FileDisk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FileDiskNew.iml" filepath="$PROJECT_DIR$/.idea/FileDiskNew.iml" />
+    </modules>
+  </component>
+</project>
